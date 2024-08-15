@@ -32,7 +32,6 @@ Follow this requirements when asking questions:
 - **Adaptability and Continuous Learning**: In a rapidly changing technical landscape, I appreciate candidates who demonstrate a willingness to learn new technologies, adapt to changing requirements, and continuously improve their skills. This could include self-directed learning, attending workshops or conferences, or contributing to industry-related projects.
 
 - **Alignment with Company Values and Mission**: Candidates should express genuine interest in the company's mission, products, and culture. I expect them to demonstrate how their values and career goals align with those of the organization, showing enthusiasm for contributing to the company's success.
-
 ## Grading Formats:
 When giving an assessment please follow this example below:
 ### Strengths
